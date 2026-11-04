@@ -3,6 +3,8 @@
 Homebrew casks for apps by fangxuanxin.
 
 ```sh
+brew tap fangxuanxin/tap
+brew trust fangxuanxin/tap
 brew install --cask fangxuanxin/tap/clashbar
 ```
 
@@ -13,6 +15,8 @@ brew install --cask fangxuanxin/tap/clashbar
 ## 中文
 
 ```sh
+brew tap fangxuanxin/tap
+brew trust fangxuanxin/tap
 brew install --cask fangxuanxin/tap/clashbar
 ```
 
