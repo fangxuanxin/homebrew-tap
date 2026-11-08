@@ -1,6 +1,6 @@
 cask "clashbar" do
-  version "0.2.0"
-  sha256 "4e85cdb28cdfb6e1b6f608673b76a16c5a1f9e5df8b7165eb8aa158afb15b5b1"
+  version "0.2.1"
+  sha256 "3f6f189c730aafca27a955588cba1b9c12a5a4db4c72d900ceca623f55b2c08a"
 
   url "https://github.com/fangxuanxin/ClashBar/releases/download/v#{version}/ClashBar.zip"
   name "ClashBar"
